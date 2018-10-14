@@ -1,0 +1,117 @@
+============================================
+
+# of K: 3
+Distance Type: Euclidean
+
+5-fold Cross Validation Metrics
+Accuracy: 0.8463
+Precision: 0.8576
+Recall: 0.8464
+F-1 Score: 0.8433
+
+============================================
+
+============================================
+
+# of K: 4
+Distance Type: Euclidean
+
+5-fold Cross Validation Metrics
+Accuracy: 0.8538
+Precision: 0.8652
+Recall: 0.8556
+F-1 Score: 0.8502
+
+============================================
+
+============================================
+
+# of K: 5
+Distance Type: Euclidean
+
+5-fold Cross Validation Metrics
+Accuracy: 0.8462
+Precision: 0.8599
+Recall: 0.8482
+F-1 Score: 0.8444
+
+============================================
+
+============================================
+
+# of K: 3
+Distance Type: Manhattan
+
+5-fold Cross Validation Metrics
+Accuracy: 0.8287
+Precision: 0.8462
+Recall: 0.8266
+F-1 Score: 0.8257
+
+============================================
+
+============================================
+
+# of K: 4
+Distance Type: Manhattan
+
+5-fold Cross Validation Metrics
+Accuracy: 0.8362
+Precision: 0.8533
+Recall: 0.8359
+F-1 Score: 0.8336
+
+============================================
+
+============================================
+
+# of K: 5
+Distance Type: Manhattan
+
+5-fold Cross Validation Metrics
+Accuracy: 0.8237
+Precision: 0.8474
+Recall: 0.8269
+F-1 Score: 0.8221
+
+============================================
+
+============================================
+
+# of K: 3
+Distance Type: L¡Ä
+
+5-fold Cross Validation Metrics
+Accuracy: 0.4688
+Precision: 0.4815
+Recall: 0.4542
+F-1 Score: 0.4469
+
+============================================
+
+============================================
+
+# of K: 4
+Distance Type: L¡Ä
+
+5-fold Cross Validation Metrics
+Accuracy: 0.4712
+Precision: 0.5128
+Recall: 0.4713
+F-1 Score: 0.4624
+
+============================================
+
+============================================
+
+# of K: 5
+Distance Type: L¡Ä
+
+5-fold Cross Validation Metrics
+Accuracy: 0.4750
+Precision: 0.4656
+Recall: 0.4685
+F-1 Score: 0.4482
+
+============================================
+

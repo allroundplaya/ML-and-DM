@@ -1,0 +1,171 @@
+============================================
+
+# of K: 3
+Distance Type: Euclidean
+
+1. Metrics of Train Data
+Accuracy: 0.9437
+Precision: 0.9492
+Recall: 0.9449
+F-1 Score: 0.9459
+
+2. Metrics of Test Data
+Accuracy: 0.8400
+Precision: 0.8377
+Recall: 0.8416
+F-1 Score: 0.8315
+
+============================================
+
+============================================
+
+# of K: 4
+Distance Type: Euclidean
+
+1. Metrics of Train Data
+Accuracy: 0.9325
+Precision: 0.9370
+Recall: 0.9324
+F-1 Score: 0.9332
+
+2. Metrics of Test Data
+Accuracy: 0.8550
+Precision: 0.8439
+Recall: 0.8543
+F-1 Score: 0.8433
+
+============================================
+
+============================================
+
+# of K: 5
+Distance Type: Euclidean
+
+1. Metrics of Train Data
+Accuracy: 0.9163
+Precision: 0.9253
+Recall: 0.9154
+F-1 Score: 0.9178
+
+2. Metrics of Test Data
+Accuracy: 0.8550
+Precision: 0.8520
+Recall: 0.8569
+F-1 Score: 0.8445
+
+============================================
+
+============================================
+
+# of K: 3
+Distance Type: Manhattan
+
+1. Metrics of Train Data
+Accuracy: 0.9300
+Precision: 0.9375
+Recall: 0.9304
+F-1 Score: 0.9321
+
+2. Metrics of Test Data
+Accuracy: 0.8350
+Precision: 0.8333
+Recall: 0.8324
+F-1 Score: 0.8272
+
+============================================
+
+============================================
+
+# of K: 4
+Distance Type: Manhattan
+
+1. Metrics of Train Data
+Accuracy: 0.9263
+Precision: 0.9336
+Recall: 0.9266
+F-1 Score: 0.9280
+
+2. Metrics of Test Data
+Accuracy: 0.8350
+Precision: 0.8376
+Recall: 0.8344
+F-1 Score: 0.8260
+
+============================================
+
+============================================
+
+# of K: 5
+Distance Type: Manhattan
+
+1. Metrics of Train Data
+Accuracy: 0.9037
+Precision: 0.9174
+Recall: 0.9034
+F-1 Score: 0.9060
+
+2. Metrics of Test Data
+Accuracy: 0.8350
+Precision: 0.8396
+Recall: 0.8365
+F-1 Score: 0.8280
+
+============================================
+
+============================================
+
+# of K: 3
+Distance Type: L¡Ä
+
+1. Metrics of Train Data
+Accuracy: 0.9363
+Precision: 0.9361
+Recall: 0.9356
+F-1 Score: 0.9356
+
+2. Metrics of Test Data
+Accuracy: 0.5150
+Precision: 0.5060
+Recall: 0.5173
+F-1 Score: 0.5029
+
+============================================
+
+============================================
+
+# of K: 4
+Distance Type: L¡Ä
+
+1. Metrics of Train Data
+Accuracy: 0.8662
+Precision: 0.8652
+Recall: 0.8621
+F-1 Score: 0.8625
+
+2. Metrics of Test Data
+Accuracy: 0.5250
+Precision: 0.5234
+Recall: 0.5326
+F-1 Score: 0.5139
+
+============================================
+
+============================================
+
+# of K: 5
+Distance Type: L¡Ä
+
+1. Metrics of Train Data
+Accuracy: 0.8200
+Precision: 0.8160
+Recall: 0.8160
+F-1 Score: 0.8146
+
+2. Metrics of Test Data
+Accuracy: 0.5200
+Precision: 0.5223
+Recall: 0.5298
+F-1 Score: 0.5108
+
+============================================
+
